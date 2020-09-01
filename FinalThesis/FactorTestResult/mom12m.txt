@@ -1,0 +1,21 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+Performance by Industry
+Signal: 12-Month Momentum
+Universe: US Common Stock Index
+
+LAG    IR_momentum12    IC_momentum12
+
+  1         0.33            1.46%    
+  2         0.24            1.47%    
+  3         0.12            1.28%    
+  4         0.04            1.08%    
+  5        -0.05            0.90%    
+  6        -0.14            0.78%    
+  7        -0.27            0.48%    
+  8        -0.35            0.55%    
+  9        -0.38            0.40%    
+ 10        -0.48            0.46%    
+ 11        -0.58            0.30%    
+ 12        -0.61            0.43%    

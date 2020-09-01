@@ -1,0 +1,22 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+Performance by Industry
+Signal: Cash Flow to Debt Ratio
+Universe: US Common Stock Index
+
+       IR_Cash_    IC_Cash_
+LAG    to_Debt     to_Debt
+
+  1       0.30       0.18% 
+  2       0.22       0.18% 
+  3       0.11       0.11% 
+  4       0.18       0.16% 
+  5       0.20       0.15% 
+  6       0.20       0.12% 
+  7       0.14       0.13% 
+  8       0.12       0.11% 
+  9       0.15       0.12% 
+ 10       0.16       0.08% 
+ 11       0.11       0.09% 
+ 12       0.10       0.09% 

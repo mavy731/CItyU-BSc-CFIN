@@ -1,0 +1,21 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+Performance by Industry
+Signal: Depreciation Rate
+Universe: US Common Stock Index
+
+LAG    IR_DEPRATE    IC_DEPRATE
+
+  1        0.06         0.21%  
+  2        0.03         0.26%  
+  3       -0.08         0.21%  
+  4       -0.05         0.22%  
+  5       -0.08         0.22%  
+  6       -0.05         0.21%  
+  7       -0.10         0.23%  
+  8       -0.08         0.21%  
+  9        0.02         0.13%  
+ 10       -0.02         0.12%  
+ 11        0.02         0.19%  
+ 12        0.09         0.15%  

@@ -1,0 +1,21 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+Performance by Industry
+Signal: Long Term Leverage
+Universe: US Common Stock Index
+
+LAG     IR_DR       IC_DR
+
+  1      0.04     -0.15% 
+  2     -0.06     -0.18% 
+  3     -0.06     -0.19% 
+  4     -0.10     -0.17% 
+  5     -0.13     -0.17% 
+  6     -0.17     -0.17% 
+  7     -0.21     -0.17% 
+  8     -0.18     -0.14% 
+  9     -0.18     -0.12% 
+ 10     -0.14     -0.08% 
+ 11     -0.08     -0.03% 
+ 12     -0.04     -0.04% 

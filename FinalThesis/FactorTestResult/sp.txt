@@ -1,0 +1,21 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+Performance by Industry
+Signal: Cyclically-Adjusted Price to Sales
+Universe: US Common Stock Index
+
+LAG    IR_CAPES    IC_CAPES
+
+  1       0.99       1.06% 
+  2       0.84       0.70% 
+  3       0.81       0.61% 
+  4       0.83       0.65% 
+  5       0.85       0.72% 
+  6       0.85       0.73% 
+  7       0.88       0.79% 
+  8       0.92       0.86% 
+  9       0.93       0.87% 
+ 10       0.95       0.89% 
+ 11       0.95       0.91% 
+ 12       0.99       0.94% 
