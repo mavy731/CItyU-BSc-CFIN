@@ -1,2 +1,2 @@
-CityU Fall Spring2019
-CoureName: Financial Econometrics
+# CityU Fall Spring2019
+>CoureName: Financial Econometrics
